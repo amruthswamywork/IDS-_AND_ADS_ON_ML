@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+plotly
+requests
+python-dotenv
+beautifulsoup4
+transformers
+wordcloud
